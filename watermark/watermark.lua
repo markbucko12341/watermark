@@ -1,7 +1,7 @@
 -- CONFIG --
 
 -- The watermark text --
-servername = "use this space for you discor or what ever you want to display"   ---- please remove the text and add your own 
+servername = "use this space for you discord or what ever you want to display"   ---- please remove the text and add your own 
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
